@@ -1,0 +1,7 @@
+CHANGED,D:\MySecondApplication\blueToothProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\himi\ChoiceDrivesList$2$override.class
+CHANGED,D:\MySecondApplication\blueToothProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\himi\ChoiceDrivesList$override.class
+CHANGED,D:\MySecondApplication\blueToothProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\himi\MainActivity$1$override.class
+CHANGED,D:\MySecondApplication\blueToothProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\himi\ConnectThread$override.class
+CHANGED,D:\MySecondApplication\blueToothProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\MySecondApplication\blueToothProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\himi\MySurfaceView$override.class
+CHANGED,D:\MySecondApplication\blueToothProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\himi\MainActivity$override.class

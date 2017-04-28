@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="hdpi"
+    format="7"
+    timestamp="21544061731935"
+    token="7753092822452763866" >
+
+    <task
+        name="javac"
+        duration="176" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="58" />
+    <task
+        name="verifier"
+        duration="17" />
+
+    <artifact
+        location="D:\MySecondApplication\blueToothProject\build\outputs\apk\blueToothProject-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="21544061731935" >
+        <artifact
+            location="D:\MySecondApplication\blueToothProject\build\outputs\apk\blueToothProject-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
